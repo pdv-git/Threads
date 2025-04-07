@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.776,=E:\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\MdiWindows\DiFileListMdiWindow.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,=E:\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,E:\Desktop\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Desktop\Documents\Embarcadero\Studio\Projects\Module1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Module1.dpr</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,E:\Desktop\Documents\Embarcadero\Studio\Projects\Module1.dproj=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Module1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=E:\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.04.07 06:52:41.186,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\MdiWindows\DiFileListMdiWindow.pas=</Transaction>
+    <Transaction>2025.04.07 06:58:48.289,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiConnectionsDockWindow.pas</Transaction>
+    <Transaction>2025.04.07 07:17:02.330,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiConnectionsDockWindow.pas=</Transaction>
+    <Transaction>2025.04.07 07:17:45.862,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiRolesDockWindow.pas</Transaction>
+    <Transaction>2025.04.07 07:35:05.309,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiUsersDockWindow.pas</Transaction>
+    <Transaction>2025.04.07 09:01:03.450,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiLeftDockWindow.pas=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiRolesDockWindow.pas</Transaction>
+    <Transaction>2025.04.07 09:01:03.450,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiLeftDockWindow.dfm=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiRolesDockWindow.dfm</Transaction>
+    <Transaction>2025.04.07 09:01:14.665,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiRightDockWindow.pas=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiUsersDockWindow.pas</Transaction>
+    <Transaction>2025.04.07 09:01:14.665,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiRightDockWindow.dfm=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\DockWindows\DiUsersDockWindow.dfm</Transaction>
+    <Transaction>2025.04.07 09:40:05.965,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Unit1.pas</Transaction>
+    <Transaction>2025.04.07 09:41:22.804,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Threads\DiPrimeNumberThread.pas=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Unit1.pas</Transaction>
+    <Transaction>2025.04.07 11:47:25.632,=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Unit1.pas</Transaction>
+    <Transaction>2025.04.07 11:47:43.954,E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Threads\DiPaintBoxThread.pas=E:\Desktop\Documents\Embarcadero\Studio\Projects\WA\Projects\DelphiX\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
